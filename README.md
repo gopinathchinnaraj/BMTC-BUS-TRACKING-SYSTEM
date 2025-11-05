@@ -4,8 +4,6 @@ A real-time IoT-enabled bus tracking solution designed to monitor Bangalore Metr
 
 Passengers can view the bus location in real time, improving commuter convenience and reducing waiting time uncertainty.
 
-![Project Overview](images/project-overview.png)
-*Figure 1: Overall System Overview showing data flow from bus to end-user*
 
 ## 📌 Project Features
 
@@ -34,12 +32,7 @@ Passengers can view the bus location in real time, improving commuter convenienc
 - Power supply & SIM card
 
 ![Hardware Setup](images/hardware-setup.png)
-*Figure 2: Hardware Components and Circuit Connection*
-
-## 📊 System Architecture
-
-![System Architecture](images/system-architecture.png)
-*Figure 3: Detailed System Architecture with Data Flow*
+*Figure : Hardware Components and Circuit Connection*
 
 ## 🚀 Installation & Setup
 
