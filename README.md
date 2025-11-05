@@ -33,7 +33,7 @@ Passengers can view the bus location in real time, improving commuter convenienc
 - Breadboard & jumper wires
 - Power supply & SIM card
 
-![Hardware Setup](images/hardware-setup.jpg)
+![Hardware Setup](images/hardware-setup.png)
 *Figure 2: Hardware Components and Circuit Connection*
 
 ## 📊 System Architecture
